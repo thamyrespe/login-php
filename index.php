@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <title>Login</title>
 </head>
 <body>
-    <h2>Login Simples</h2>
+    <h2>Loginn Simples</h2>
     <form method="post" action="">
         <label>Usuário:</label><br>
         <input type="text" name="username"><br>
