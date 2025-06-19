@@ -10,4 +10,4 @@ on:
 
 jobs:
   login:
-    uses: OtavioAugustoMonteiroDiscini/php-workflows/.github/workflows/login.yml@main
+    uses: thamyrespe/php-workflows/.github/workflows/login.yml@main
